@@ -1,6 +1,1 @@
-(docs/01_ARCHITECTURAL_PRINCIPLES.md is a markdown documentation file, which is a source/config file)
-
-# Source and documentation files should not be ignored
-# No build artifacts, dependencies, or temp files detected in changes
-
-# Output remains empty as per rule 6
+(docs/01_ARCHITECTURAL_PRINCIPLES.md)
