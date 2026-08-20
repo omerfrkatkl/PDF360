@@ -30,7 +30,4 @@ Thumbs.db
 coverage/
 htmlcov/
 .coverage
-
-# Rust specific
-Cargo.lock
 ```
